@@ -1,4 +1,4 @@
-Pytorch==1.0.2
+Pytorch==1.2.0
 vtk==9.0.1
 imageio==2.6
 matplotlib==3.1.1
