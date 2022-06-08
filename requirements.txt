@@ -1,4 +1,4 @@
-Pytorch==1.4.0
+Pytorch==1.0.2
 vtk==9.0.1
 libnetcdf==4.7.1 
 imageio==2.6
